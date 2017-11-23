@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "language",
+          "type": "AMAZON.Language"
+        },
+        {
+          "name": "guestName",
+          "type": "IN_First_Name"
+        }
+      ],
+      "intent": "welcomeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "guestName",
+          "type": "IN_First_Name"
+        },
+        {
+          "name": "language",
+          "type": "AMAZON.Language"
+        }
+      ],
+      "intent": "wisherIntent"
+    }
+  ]
+}

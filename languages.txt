@@ -1,0 +1,15 @@
+welcomeIntent welcome in {language} style
+welcomeIntent please welcome our guests in {language} style
+welcomeIntent welcome our guest {guestName} in {language} style
+welcomeIntent welcome our guests {guestName} in {language} style
+welcomeIntent please welcome our {guestName} guests in {language} style
+welcomeIntent welcome {guestName} in {language} style
+welcomeIntent receive our guest in {language} style
+welcomeIntent receive our guest in {language}
+welcomeIntent please welcome in {language} style
+wisherIntent wish {guestName} in {language} style
+wisherIntent say hi to {guestName} in {language} style
+wisherIntent say hello to {guestName} in {language} style
+wisherIntent say hello in {language}
+wisherIntent say hi in {language}
+wisherIntent wish our guest {guestName} in {language} style
